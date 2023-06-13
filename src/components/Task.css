@@ -1,0 +1,19 @@
+.task {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .task-info {
+    flex: 1;
+  }
+  
+  .task-actions {
+    display: flex;
+    gap: 10px;
+  }
+  

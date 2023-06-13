@@ -1,0 +1,12 @@
+.task-column {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .task-column h2 {
+    margin-top: 0;
+  }
+  
+  /* Add any additional styling as per your requirements */
+  

@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "username": "test",
+      "email": "test@test.com",
+      "contactNumber": "test",
+      "password": "tewst",
+      "profileImage": null,
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "name": "test 2",
+      "priority": "medium",
+      "deadline": "2023-06-08",
+      "status": "ongoing",
+      "index": 0,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "priority": "medium",
+      "deadline": "2023-06-23",
+      "status": "ongoing",
+      "index": 0,
+      "id": 3
+    },
+    {
+      "name": "new test",
+      "priority": "medium",
+      "deadline": "2023-06-16",
+      "status": "ongoing",
+      "index": 0,
+      "id": 4
+    },
+    {
+      "name": "New Task",
+      "priority": "high",
+      "deadline": "2023-06-08",
+      "status": "ongoing",
+      "index": 0,
+      "id": 5
+    }
+  ]
+}
